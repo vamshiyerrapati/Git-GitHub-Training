@@ -1,3 +1,5 @@
 This is DevOps training
 
 This is for Git diff example
+
+Now this is to test push command in Git and GitHub
